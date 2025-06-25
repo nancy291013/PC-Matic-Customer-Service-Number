@@ -3,7 +3,7 @@ How to Contact PC Matic Customer Service Number?
 
 In the world of cybersecurity, having dependable antivirus software is just part of the equation. What really makes a difference is knowing help is just a call or message away when something goes wrong. If you're a PC Matic user and you're wondering how to contact PC Matic customer service number, you're not alone. Many users look for direct support when their software isn’t working as expected, their subscription needs renewing, or they’re facing a technical issue they can’t resolve on their own.
 
-.. image:: https://how-to-contact-malwarebytes-customer-service.readthedocs.io/en/latest/_images/click-service.png
+.. image:: click-service.png
    :alt: pc matic customer service
    :width: 400px
    :align: center
